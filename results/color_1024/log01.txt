@@ -1,0 +1,14 @@
+1500th trial: Errors = 0
+3000th trial: Errors = 0
+4500th trial: Errors = 0
+6000th trial: Errors = 0
+7500th trial: Errors = 0
+9000th trial: Errors = 0
+10500th trial: Errors = 0
+12000th trial: Errors = 0
+13500th trial: Errors = 0
+15000th trial: Errors = 0
+16500th trial: Errors = 0
+18000th trial: Errors = 0
+19500th trial: Errors = 0
+Final error rate for p = 0.01 is 0 .

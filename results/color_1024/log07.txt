@@ -1,0 +1,4 @@
+1500th trial: Errors = 534
+3000th trial: Errors = 1081
+4500th trial: Errors = 1619
+Final error rate for p = 0.07 is 0.358528 .

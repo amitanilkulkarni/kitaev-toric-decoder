@@ -1,0 +1,14 @@
+1500th trial: Errors = 3
+3000th trial: Errors = 4
+4500th trial: Errors = 4
+6000th trial: Errors = 5
+7500th trial: Errors = 6
+9000th trial: Errors = 7
+10500th trial: Errors = 7
+12000th trial: Errors = 10
+13500th trial: Errors = 10
+15000th trial: Errors = 10
+16500th trial: Errors = 10
+18000th trial: Errors = 12
+19500th trial: Errors = 14
+Final error rate for p = 0.01 is 0.00075 .
