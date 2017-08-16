@@ -1,14 +1,11 @@
 /* ---------------------------------------------------------------------
 
                DECODER FOR SQUARE OCTAGONAL COLOR CODE
-	       ***************************************
+	       =======================================
 
    INPUT:  Error probability
    
    OUTPUT: Error rate for given error probability
-
-   KNOWN BUGS:
-   - Z error syndrome calculation is faulty ('2m' instead of '1').
 
 --------------------------------------------------------------------- */
 
