@@ -3,14 +3,13 @@
 
    TODO:
    
-   - Parallelize the trials.
-
    DONE:
 
    - Take everything from command line. No need to compile again.
    - Stop the code if both of these conditions are satisfied
        (a) At least ERR_COUNT errors are hit
-       (b) At least MIN_TRIAL trials are done   
+       (b) At least MIN_TRIAL trials are done
+   - Parallelize the trials.
 
 */ //-----------------------------------------------------------------
 
